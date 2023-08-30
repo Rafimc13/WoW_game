@@ -18,3 +18,5 @@ for i in range(3):
 WoW_game = Arena(teamA, teamB)
 WoW_game.print_state()
 WoW_game.play()
+
+print("Hello World!")
